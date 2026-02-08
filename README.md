@@ -1,2 +1,3 @@
-# My first Game   
-##### You can see it here: https://cyberlab-overflow.github.io/snake-game/
+<h3>Snake Game</h3>   
+
+- You can see it [here](https://Pr0fiLeRR.github.io/snake-game/)
